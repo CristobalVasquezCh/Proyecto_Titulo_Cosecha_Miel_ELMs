@@ -1,4 +1,4 @@
-# Predicción de Cosecha de Miel mediante Máquinas de Aprendizaje Extremo (ELMs) 🐝
+# Predicción de Cosecha de Miel mediante Máquinas de Aprendizaje Extremo (ELM)
 
 Este repositorio contiene el código fuente en MATLAB, los entornos de variables (`.mat`), las bases de datos climáticas y las firmas satelitales (NDVI) desarrollados para el Proyecto de Título de Ingeniería Civil Electrónica.
 
