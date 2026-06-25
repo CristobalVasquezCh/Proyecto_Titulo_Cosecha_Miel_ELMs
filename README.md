@@ -28,4 +28,4 @@ Para garantizar la reproducibilidad y trazabilidad algorítmica de la tesis, el 
 * **`Extraccion_NDVI_MODIS_GEE.js`**: Script original en JavaScript ejecutado en la plataforma de Google Earth Engine para la extracción satelital.
 
 > **Nota sobre los Mapas Espaciales (NDVI)**: Debido a que los archivos raster de composición de valor máximo superan el límite de tamaño de GitHub (75MB+), la carpeta con los mapas georreferenciados para abrir en QGIS se encuentra alojada en el siguiente repositorio externo:
-> [ Descargar Mapas NDVI desde Google Drive]([https://drive.google.com/drive/folders/1ZRshQ7XS2Qf6rbBTATEnGrv_guHjhxMZ?usp=sharing])
+> [ Descargar Mapas NDVI desde Google Drive](https://drive.google.com/drive/folders/1ZRshQ7XS2Qf6rbBTATEnGrv_guHjhxMZ?usp=sharing)
